@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/soundex_test.dir/src/soundex.cc.o  -o soundex_test  lib/libgmock_main.a lib/libgmock.a lib/libgtest_main.a lib/libgtest.a -lpthread -lpthread 
